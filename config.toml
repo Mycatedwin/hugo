@@ -1,3 +1,6 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://jamessturges.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "James Sturges"
+newContentEditor = "vim"
+theme = "nofancy"
+pygmentsStyle = "native"
